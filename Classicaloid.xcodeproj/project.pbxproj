@@ -11,6 +11,43 @@
 		43857ADC2909B8DC00C6CD07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857ADB2909B8DC00C6CD07 /* ContentView.swift */; };
 		43857ADE2909B8E600C6CD07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43857ADD2909B8E600C6CD07 /* Assets.xcassets */; };
 		43857AE12909B8E600C6CD07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43857AE02909B8E600C6CD07 /* Preview Assets.xcassets */; };
+		43857AEA2909B9A000C6CD07 /* EraTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AE92909B9A000C6CD07 /* EraTabView.swift */; };
+		43857AED2909B9EA00C6CD07 /* ComposerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AEC2909B9EA00C6CD07 /* ComposerTabView.swift */; };
+		43857AF12909BA0600C6CD07 /* ComposerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AF02909BA0600C6CD07 /* ComposerView.swift */; };
+		43857AF52909BA1D00C6CD07 /* Composer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AF42909BA1D00C6CD07 /* Composer.swift */; };
+		43857AF92909BA3500C6CD07 /* ComposerDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AF82909BA3500C6CD07 /* ComposerDetail.swift */; };
+		43857AFD2909BA5A00C6CD07 /* PieceTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AFC2909BA5A00C6CD07 /* PieceTabView.swift */; };
+		43857B002909BA7600C6CD07 /* Piece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43857AFF2909BA7600C6CD07 /* Piece.swift */; };
+		43CA1C642909BB1D004B4381 /* Symphony No. 5, Op. 67 - I. Allegro con brio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C482909BB15004B4381 /* Symphony No. 5, Op. 67 - I. Allegro con brio.mp3 */; };
+		43CA1C652909BB1D004B4381 /* Piano Sonata No. 11 in A Major, K 331 - III. Alla Turca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C492909BB15004B4381 /* Piano Sonata No. 11 in A Major, K 331 - III. Alla Turca.mp3 */; };
+		43CA1C662909BB1D004B4381 /* Symphony No. 9, From the New World.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C4A2909BB15004B4381 /* Symphony No. 9, From the New World.mp3 */; };
+		43CA1C672909BB1D004B4381 /* Für Elise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C4B2909BB15004B4381 /* Für Elise.mp3 */; };
+		43CA1C682909BB1D004B4381 /* Nocturne in E Flat Major, Op. 9, No.2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C4C2909BB15004B4381 /* Nocturne in E Flat Major, Op. 9, No.2.mp3 */; };
+		43CA1C692909BB1D004B4381 /* Canon in D, P 37.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C4D2909BB16004B4381 /* Canon in D, P 37.mp3 */; };
+		43CA1C6A2909BB1D004B4381 /* Piano Sonata No. 14 in C-sharp minor, Moonlight Sonata - I. Adagio Sostenuto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C4E2909BB16004B4381 /* Piano Sonata No. 14 in C-sharp minor, Moonlight Sonata - I. Adagio Sostenuto.mp3 */; };
+		43CA1C6B2909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - III. Menuetto - Allegretto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C4F2909BB16004B4381 /* Eine Kleine Nachtmusik, K 525 - III. Menuetto - Allegretto.mp3 */; };
+		43CA1C6C2909BB1D004B4381 /* Nutcracker Suite, Op. 71a - 2a. March.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C502909BB16004B4381 /* Nutcracker Suite, Op. 71a - 2a. March.mp3 */; };
+		43CA1C6D2909BB1D004B4381 /* Hungarian Dances, WoO 1, No. 5 in G Minor - Allegro vivace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C512909BB17004B4381 /* Hungarian Dances, WoO 1, No. 5 in G Minor - Allegro vivace.mp3 */; };
+		43CA1C6E2909BB1D004B4381 /* Violin Concerto in E minor, Op.64.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C522909BB18004B4381 /* Violin Concerto in E minor, Op.64.mp3 */; };
+		43CA1C6F2909BB1D004B4381 /* Requiem, Dies Irae.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C532909BB18004B4381 /* Requiem, Dies Irae.mp3 */; };
+		43CA1C702909BB1D004B4381 /* String Quintet in E major, Op. 11, No. 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C542909BB18004B4381 /* String Quintet in E major, Op. 11, No. 5.mp3 */; };
+		43CA1C712909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - IV. Rondo - Allegro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C552909BB19004B4381 /* Eine Kleine Nachtmusik, K 525 - IV. Rondo - Allegro.mp3 */; };
+		43CA1C722909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - II. Romanze - Andante.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C562909BB19004B4381 /* Eine Kleine Nachtmusik, K 525 - II. Romanze - Andante.mp3 */; };
+		43CA1C732909BB1D004B4381 /* Grandes études de Paganini, S.141 - No. 3 in G Sharp Minor, La Campanella.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C572909BB19004B4381 /* Grandes études de Paganini, S.141 - No. 3 in G Sharp Minor, La Campanella.mp3 */; };
+		43CA1C742909BB1D004B4381 /* Toccata and Fugue D Minor, BWV 565.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C582909BB19004B4381 /* Toccata and Fugue D Minor, BWV 565.mp3 */; };
+		43CA1C752909BB1D004B4381 /* Trumpet Concerto, 3rd Mvt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C592909BB1A004B4381 /* Trumpet Concerto, 3rd Mvt.mp3 */; };
+		43CA1C762909BB1D004B4381 /* Waltz No. 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C5A2909BB1A004B4381 /* Waltz No. 2.mp3 */; };
+		43CA1C772909BB1D004B4381 /* The Four Seasons - Spring, Concerto No. 1 in E Major, RV 269.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C5B2909BB1A004B4381 /* The Four Seasons - Spring, Concerto No. 1 in E Major, RV 269.mp3 */; };
+		43CA1C782909BB1D004B4381 /* Swan Lake Suite, Op 20 - Enchanted Lake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C5C2909BB1A004B4381 /* Swan Lake Suite, Op 20 - Enchanted Lake.mp3 */; };
+		43CA1C792909BB1D004B4381 /* Rhapsody in Blue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C5D2909BB1B004B4381 /* Rhapsody in Blue.mp3 */; };
+		43CA1C7A2909BB1D004B4381 /* William Tell Overture - Finale.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C5E2909BB1B004B4381 /* William Tell Overture - Finale.mp3 */; };
+		43CA1C7B2909BB1D004B4381 /* Cello Suite No. 1 in G Major, BWV 1007.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C5F2909BB1B004B4381 /* Cello Suite No. 1 in G Major, BWV 1007.mp3 */; };
+		43CA1C7C2909BB1D004B4381 /* Suite bergamasque, CD 82, L. 75 - III. Clair de lune.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C602909BB1C004B4381 /* Suite bergamasque, CD 82, L. 75 - III. Clair de lune.mp3 */; };
+		43CA1C7D2909BB1D004B4381 /* Messiah, HWV 56.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C612909BB1C004B4381 /* Messiah, HWV 56.mp3 */; };
+		43CA1C7E2909BB1D004B4381 /* Bolero, M. 81.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C622909BB1C004B4381 /* Bolero, M. 81.mp3 */; };
+		43CA1C7F2909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - I. Allegro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C632909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - I. Allegro.mp3 */; };
+		43CA1C882909BBC3004B4381 /* Avigea.otf in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C872909BBC3004B4381 /* Avigea.otf */; };
+		43CA1C8C2909BBDF004B4381 /* DuhDuhDuhDum.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 43CA1C8B2909BBDF004B4381 /* DuhDuhDuhDum.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +57,43 @@
 		43857ADD2909B8E600C6CD07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43857AE02909B8E600C6CD07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43857AE22909B8E600C6CD07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43857AE92909B9A000C6CD07 /* EraTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EraTabView.swift; sourceTree = "<group>"; };
+		43857AEC2909B9EA00C6CD07 /* ComposerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposerTabView.swift; sourceTree = "<group>"; };
+		43857AF02909BA0600C6CD07 /* ComposerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposerView.swift; sourceTree = "<group>"; };
+		43857AF42909BA1D00C6CD07 /* Composer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Composer.swift; sourceTree = "<group>"; };
+		43857AF82909BA3500C6CD07 /* ComposerDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposerDetail.swift; sourceTree = "<group>"; };
+		43857AFC2909BA5A00C6CD07 /* PieceTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieceTabView.swift; sourceTree = "<group>"; };
+		43857AFF2909BA7600C6CD07 /* Piece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Piece.swift; sourceTree = "<group>"; };
+		43CA1C482909BB15004B4381 /* Symphony No. 5, Op. 67 - I. Allegro con brio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Symphony No. 5, Op. 67 - I. Allegro con brio.mp3"; sourceTree = "<group>"; };
+		43CA1C492909BB15004B4381 /* Piano Sonata No. 11 in A Major, K 331 - III. Alla Turca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Piano Sonata No. 11 in A Major, K 331 - III. Alla Turca.mp3"; sourceTree = "<group>"; };
+		43CA1C4A2909BB15004B4381 /* Symphony No. 9, From the New World.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Symphony No. 9, From the New World.mp3"; sourceTree = "<group>"; };
+		43CA1C4B2909BB15004B4381 /* Für Elise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Für Elise.mp3"; sourceTree = "<group>"; };
+		43CA1C4C2909BB15004B4381 /* Nocturne in E Flat Major, Op. 9, No.2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Nocturne in E Flat Major, Op. 9, No.2.mp3"; sourceTree = "<group>"; };
+		43CA1C4D2909BB16004B4381 /* Canon in D, P 37.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Canon in D, P 37.mp3"; sourceTree = "<group>"; };
+		43CA1C4E2909BB16004B4381 /* Piano Sonata No. 14 in C-sharp minor, Moonlight Sonata - I. Adagio Sostenuto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Piano Sonata No. 14 in C-sharp minor, Moonlight Sonata - I. Adagio Sostenuto.mp3"; sourceTree = "<group>"; };
+		43CA1C4F2909BB16004B4381 /* Eine Kleine Nachtmusik, K 525 - III. Menuetto - Allegretto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eine Kleine Nachtmusik, K 525 - III. Menuetto - Allegretto.mp3"; sourceTree = "<group>"; };
+		43CA1C502909BB16004B4381 /* Nutcracker Suite, Op. 71a - 2a. March.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Nutcracker Suite, Op. 71a - 2a. March.mp3"; sourceTree = "<group>"; };
+		43CA1C512909BB17004B4381 /* Hungarian Dances, WoO 1, No. 5 in G Minor - Allegro vivace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hungarian Dances, WoO 1, No. 5 in G Minor - Allegro vivace.mp3"; sourceTree = "<group>"; };
+		43CA1C522909BB18004B4381 /* Violin Concerto in E minor, Op.64.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Violin Concerto in E minor, Op.64.mp3"; sourceTree = "<group>"; };
+		43CA1C532909BB18004B4381 /* Requiem, Dies Irae.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Requiem, Dies Irae.mp3"; sourceTree = "<group>"; };
+		43CA1C542909BB18004B4381 /* String Quintet in E major, Op. 11, No. 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "String Quintet in E major, Op. 11, No. 5.mp3"; sourceTree = "<group>"; };
+		43CA1C552909BB19004B4381 /* Eine Kleine Nachtmusik, K 525 - IV. Rondo - Allegro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eine Kleine Nachtmusik, K 525 - IV. Rondo - Allegro.mp3"; sourceTree = "<group>"; };
+		43CA1C562909BB19004B4381 /* Eine Kleine Nachtmusik, K 525 - II. Romanze - Andante.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eine Kleine Nachtmusik, K 525 - II. Romanze - Andante.mp3"; sourceTree = "<group>"; };
+		43CA1C572909BB19004B4381 /* Grandes études de Paganini, S.141 - No. 3 in G Sharp Minor, La Campanella.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Grandes études de Paganini, S.141 - No. 3 in G Sharp Minor, La Campanella.mp3"; sourceTree = "<group>"; };
+		43CA1C582909BB19004B4381 /* Toccata and Fugue D Minor, BWV 565.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Toccata and Fugue D Minor, BWV 565.mp3"; sourceTree = "<group>"; };
+		43CA1C592909BB1A004B4381 /* Trumpet Concerto, 3rd Mvt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Trumpet Concerto, 3rd Mvt.mp3"; sourceTree = "<group>"; };
+		43CA1C5A2909BB1A004B4381 /* Waltz No. 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Waltz No. 2.mp3"; sourceTree = "<group>"; };
+		43CA1C5B2909BB1A004B4381 /* The Four Seasons - Spring, Concerto No. 1 in E Major, RV 269.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Four Seasons - Spring, Concerto No. 1 in E Major, RV 269.mp3"; sourceTree = "<group>"; };
+		43CA1C5C2909BB1A004B4381 /* Swan Lake Suite, Op 20 - Enchanted Lake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Swan Lake Suite, Op 20 - Enchanted Lake.mp3"; sourceTree = "<group>"; };
+		43CA1C5D2909BB1B004B4381 /* Rhapsody in Blue.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rhapsody in Blue.mp3"; sourceTree = "<group>"; };
+		43CA1C5E2909BB1B004B4381 /* William Tell Overture - Finale.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "William Tell Overture - Finale.mp3"; sourceTree = "<group>"; };
+		43CA1C5F2909BB1B004B4381 /* Cello Suite No. 1 in G Major, BWV 1007.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cello Suite No. 1 in G Major, BWV 1007.mp3"; sourceTree = "<group>"; };
+		43CA1C602909BB1C004B4381 /* Suite bergamasque, CD 82, L. 75 - III. Clair de lune.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Suite bergamasque, CD 82, L. 75 - III. Clair de lune.mp3"; sourceTree = "<group>"; };
+		43CA1C612909BB1C004B4381 /* Messiah, HWV 56.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Messiah, HWV 56.mp3"; sourceTree = "<group>"; };
+		43CA1C622909BB1C004B4381 /* Bolero, M. 81.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bolero, M. 81.mp3"; sourceTree = "<group>"; };
+		43CA1C632909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - I. Allegro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eine Kleine Nachtmusik, K 525 - I. Allegro.mp3"; sourceTree = "<group>"; };
+		43CA1C872909BBC3004B4381 /* Avigea.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Avigea.otf; sourceTree = "<group>"; };
+		43CA1C8B2909BBDF004B4381 /* DuhDuhDuhDum.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = DuhDuhDuhDum.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +126,18 @@
 		43857AD82909B8DC00C6CD07 /* Classicaloid */ = {
 			isa = PBXGroup;
 			children = (
+				43CA1C8A2909BBD3004B4381 /* Videos */,
+				43CA1C862909BBB5004B4381 /* Fonts */,
+				43CA1C812909BB27004B4381 /* Pieces */,
 				43857AD92909B8DC00C6CD07 /* ClassicaloidApp.swift */,
 				43857ADB2909B8DC00C6CD07 /* ContentView.swift */,
+				43857AE92909B9A000C6CD07 /* EraTabView.swift */,
+				43857AEC2909B9EA00C6CD07 /* ComposerTabView.swift */,
+				43857AF02909BA0600C6CD07 /* ComposerView.swift */,
+				43857AF42909BA1D00C6CD07 /* Composer.swift */,
+				43857AF82909BA3500C6CD07 /* ComposerDetail.swift */,
+				43857AFC2909BA5A00C6CD07 /* PieceTabView.swift */,
+				43857AFF2909BA7600C6CD07 /* Piece.swift */,
 				43857ADD2909B8E600C6CD07 /* Assets.xcassets */,
 				43857AE22909B8E600C6CD07 /* Info.plist */,
 				43857ADF2909B8E600C6CD07 /* Preview Content */,
@@ -67,6 +151,57 @@
 				43857AE02909B8E600C6CD07 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		43CA1C812909BB27004B4381 /* Pieces */ = {
+			isa = PBXGroup;
+			children = (
+				43CA1C622909BB1C004B4381 /* Bolero, M. 81.mp3 */,
+				43CA1C4D2909BB16004B4381 /* Canon in D, P 37.mp3 */,
+				43CA1C5F2909BB1B004B4381 /* Cello Suite No. 1 in G Major, BWV 1007.mp3 */,
+				43CA1C632909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - I. Allegro.mp3 */,
+				43CA1C562909BB19004B4381 /* Eine Kleine Nachtmusik, K 525 - II. Romanze - Andante.mp3 */,
+				43CA1C4F2909BB16004B4381 /* Eine Kleine Nachtmusik, K 525 - III. Menuetto - Allegretto.mp3 */,
+				43CA1C552909BB19004B4381 /* Eine Kleine Nachtmusik, K 525 - IV. Rondo - Allegro.mp3 */,
+				43CA1C4B2909BB15004B4381 /* Für Elise.mp3 */,
+				43CA1C572909BB19004B4381 /* Grandes études de Paganini, S.141 - No. 3 in G Sharp Minor, La Campanella.mp3 */,
+				43CA1C512909BB17004B4381 /* Hungarian Dances, WoO 1, No. 5 in G Minor - Allegro vivace.mp3 */,
+				43CA1C612909BB1C004B4381 /* Messiah, HWV 56.mp3 */,
+				43CA1C4C2909BB15004B4381 /* Nocturne in E Flat Major, Op. 9, No.2.mp3 */,
+				43CA1C502909BB16004B4381 /* Nutcracker Suite, Op. 71a - 2a. March.mp3 */,
+				43CA1C492909BB15004B4381 /* Piano Sonata No. 11 in A Major, K 331 - III. Alla Turca.mp3 */,
+				43CA1C4E2909BB16004B4381 /* Piano Sonata No. 14 in C-sharp minor, Moonlight Sonata - I. Adagio Sostenuto.mp3 */,
+				43CA1C532909BB18004B4381 /* Requiem, Dies Irae.mp3 */,
+				43CA1C5D2909BB1B004B4381 /* Rhapsody in Blue.mp3 */,
+				43CA1C542909BB18004B4381 /* String Quintet in E major, Op. 11, No. 5.mp3 */,
+				43CA1C602909BB1C004B4381 /* Suite bergamasque, CD 82, L. 75 - III. Clair de lune.mp3 */,
+				43CA1C5C2909BB1A004B4381 /* Swan Lake Suite, Op 20 - Enchanted Lake.mp3 */,
+				43CA1C482909BB15004B4381 /* Symphony No. 5, Op. 67 - I. Allegro con brio.mp3 */,
+				43CA1C4A2909BB15004B4381 /* Symphony No. 9, From the New World.mp3 */,
+				43CA1C5B2909BB1A004B4381 /* The Four Seasons - Spring, Concerto No. 1 in E Major, RV 269.mp3 */,
+				43CA1C582909BB19004B4381 /* Toccata and Fugue D Minor, BWV 565.mp3 */,
+				43CA1C592909BB1A004B4381 /* Trumpet Concerto, 3rd Mvt.mp3 */,
+				43CA1C522909BB18004B4381 /* Violin Concerto in E minor, Op.64.mp3 */,
+				43CA1C5A2909BB1A004B4381 /* Waltz No. 2.mp3 */,
+				43CA1C5E2909BB1B004B4381 /* William Tell Overture - Finale.mp3 */,
+			);
+			path = Pieces;
+			sourceTree = "<group>";
+		};
+		43CA1C862909BBB5004B4381 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				43CA1C872909BBC3004B4381 /* Avigea.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		43CA1C8A2909BBD3004B4381 /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				43CA1C8B2909BBDF004B4381 /* DuhDuhDuhDum.mp4 */,
+			);
+			path = Videos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +262,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				43857AE12909B8E600C6CD07 /* Preview Assets.xcassets in Resources */,
+				43CA1C722909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - II. Romanze - Andante.mp3 in Resources */,
+				43CA1C7A2909BB1D004B4381 /* William Tell Overture - Finale.mp3 in Resources */,
+				43CA1C6D2909BB1D004B4381 /* Hungarian Dances, WoO 1, No. 5 in G Minor - Allegro vivace.mp3 in Resources */,
+				43CA1C6C2909BB1D004B4381 /* Nutcracker Suite, Op. 71a - 2a. March.mp3 in Resources */,
+				43CA1C652909BB1D004B4381 /* Piano Sonata No. 11 in A Major, K 331 - III. Alla Turca.mp3 in Resources */,
+				43CA1C752909BB1D004B4381 /* Trumpet Concerto, 3rd Mvt.mp3 in Resources */,
+				43CA1C742909BB1D004B4381 /* Toccata and Fugue D Minor, BWV 565.mp3 in Resources */,
+				43CA1C732909BB1D004B4381 /* Grandes études de Paganini, S.141 - No. 3 in G Sharp Minor, La Campanella.mp3 in Resources */,
+				43CA1C782909BB1D004B4381 /* Swan Lake Suite, Op 20 - Enchanted Lake.mp3 in Resources */,
+				43CA1C6F2909BB1D004B4381 /* Requiem, Dies Irae.mp3 in Resources */,
+				43CA1C7D2909BB1D004B4381 /* Messiah, HWV 56.mp3 in Resources */,
+				43CA1C762909BB1D004B4381 /* Waltz No. 2.mp3 in Resources */,
+				43CA1C772909BB1D004B4381 /* The Four Seasons - Spring, Concerto No. 1 in E Major, RV 269.mp3 in Resources */,
+				43CA1C692909BB1D004B4381 /* Canon in D, P 37.mp3 in Resources */,
+				43CA1C702909BB1D004B4381 /* String Quintet in E major, Op. 11, No. 5.mp3 in Resources */,
+				43CA1C7B2909BB1D004B4381 /* Cello Suite No. 1 in G Major, BWV 1007.mp3 in Resources */,
+				43CA1C712909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - IV. Rondo - Allegro.mp3 in Resources */,
+				43CA1C6A2909BB1D004B4381 /* Piano Sonata No. 14 in C-sharp minor, Moonlight Sonata - I. Adagio Sostenuto.mp3 in Resources */,
+				43CA1C6B2909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - III. Menuetto - Allegretto.mp3 in Resources */,
+				43CA1C642909BB1D004B4381 /* Symphony No. 5, Op. 67 - I. Allegro con brio.mp3 in Resources */,
+				43CA1C7E2909BB1D004B4381 /* Bolero, M. 81.mp3 in Resources */,
+				43CA1C882909BBC3004B4381 /* Avigea.otf in Resources */,
+				43CA1C7C2909BB1D004B4381 /* Suite bergamasque, CD 82, L. 75 - III. Clair de lune.mp3 in Resources */,
+				43CA1C8C2909BBDF004B4381 /* DuhDuhDuhDum.mp4 in Resources */,
+				43CA1C682909BB1D004B4381 /* Nocturne in E Flat Major, Op. 9, No.2.mp3 in Resources */,
+				43CA1C792909BB1D004B4381 /* Rhapsody in Blue.mp3 in Resources */,
+				43CA1C672909BB1D004B4381 /* Für Elise.mp3 in Resources */,
+				43CA1C6E2909BB1D004B4381 /* Violin Concerto in E minor, Op.64.mp3 in Resources */,
 				43857ADE2909B8E600C6CD07 /* Assets.xcassets in Resources */,
+				43CA1C662909BB1D004B4381 /* Symphony No. 9, From the New World.mp3 in Resources */,
+				43CA1C7F2909BB1D004B4381 /* Eine Kleine Nachtmusik, K 525 - I. Allegro.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +303,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43857AF92909BA3500C6CD07 /* ComposerDetail.swift in Sources */,
+				43857AF12909BA0600C6CD07 /* ComposerView.swift in Sources */,
 				43857ADC2909B8DC00C6CD07 /* ContentView.swift in Sources */,
 				43857ADA2909B8DC00C6CD07 /* ClassicaloidApp.swift in Sources */,
+				43857AED2909B9EA00C6CD07 /* ComposerTabView.swift in Sources */,
+				43857B002909BA7600C6CD07 /* Piece.swift in Sources */,
+				43857AFD2909BA5A00C6CD07 /* PieceTabView.swift in Sources */,
+				43857AEA2909B9A000C6CD07 /* EraTabView.swift in Sources */,
+				43857AF52909BA1D00C6CD07 /* Composer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
